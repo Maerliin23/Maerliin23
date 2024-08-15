@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy estudiante de Ingeniería en Sistemas Computacionales.<br>Estoy en crecimiento en el desarrollo web. 
+¡Hola! Soy una desarrolladora junior con un enfoque en el desarrollo web. Actualmente, estoy en formación como ingeniera en sistemas computacionales, donde adquiero habilidades en programación, diseño de software y gestión de sistemas informáticos. Mi experiencia incluye el trabajo en proyectos web que abarcan desde la creación de interfaces atractivas hasta la implementación de funcionalidades complejas. Me apasiona la tecnología y estoy comprometida con el aprendizaje continuo para contribuir de manera efectiva en el mundo del desarrollo web.
 
 
 ## 🌐 Socials:
