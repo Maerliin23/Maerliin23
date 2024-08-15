@@ -1,7 +1,5 @@
 # 💫 About Me:
-Soy estudiante de Ingeniería en Sistemas Computacionales.<br>Estoy en crecimiento en el desarrollo web. 
-[![](https://visitcount.itsvg.in/api?id=Maerliin23&label=Statistics&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
+¡Hola! Soy una desarrolladora junior con un enfoque en el desarrollo web. Actualmente, estoy en formación como ingeniera en sistemas computacionales, donde adquiero habilidades en programación, diseño de software y gestión de sistemas informáticos. Mi experiencia incluye el trabajo en proyectos web que abarcan desde la creación de interfaces atractivas hasta la implementación de funcionalidades complejas. Me apasiona la tecnología y estoy comprometida con el aprendizaje continuo para contribuir de manera efectiva en el mundo del desarrollo web.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mae.clock) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marlen-glez-350663286 ) 
@@ -46,6 +44,6 @@ Web Hosting<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Maerliin23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maerliin23&icon=7&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Maerliin23&label=Statistics&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
