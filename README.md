@@ -1,5 +1,6 @@
 # 💫 About Me:
 Soy estudiante de Ingeniería en Sistemas Computacionales.<br>Estoy en crecimiento en el desarrollo web. 
+[![](https://visitcount.itsvg.in/api?id=Maerliin23&label=Statistics&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
