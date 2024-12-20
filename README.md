@@ -8,14 +8,12 @@
 Languages<br/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 
 Markup Language<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 
-JS Framework/Library<br/>
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+
 
 PHP Framework/Library<br/>
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
